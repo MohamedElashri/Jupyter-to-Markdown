@@ -11,7 +11,6 @@ Add this to `.github/workflow/action.yml`
 
 ```
 name: Jupyter to Markdown
-# only run on notebook update
 on:
   push:
     paths:
