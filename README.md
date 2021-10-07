@@ -1,5 +1,5 @@
-# Jupyter-to-Markdown
-Convert Jupyter notebook files to markdown
+# Jupyter to Markdown
+Convert Jupyter notebook files to Markdown
 
 ## Usage 
 
