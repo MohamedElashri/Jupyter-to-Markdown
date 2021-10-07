@@ -16,7 +16,7 @@ on:
     paths:
       - '**.ipynb'
 jobs:
-  makepdfs:
+  convert:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
