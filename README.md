@@ -25,7 +25,7 @@ jobs:
     - name: Jupyter Notebooks to Markdown
       uses: MohamedElashri/Jupyter-to-Markdown@v1
     - name: Create Pull Request
-      uses: peter-evans/create-pull-request@v2
+      uses: peter-evans/create-pull-request@v3
       with:
         commit-message: Pull request with the Convreted markdown files
         committer: Mohamed Elashri <MohamedElashri@users.noreply.github.com>
