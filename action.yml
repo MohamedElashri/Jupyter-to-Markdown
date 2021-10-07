@@ -1,0 +1,7 @@
+# action.yml
+
+name: 'Jupyter Notebooks to Markdown'
+description: 'Convert Jupyter Notebooks within the repository to Markdown files'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
