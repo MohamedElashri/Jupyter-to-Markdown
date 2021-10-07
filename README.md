@@ -23,7 +23,7 @@ jobs:
       with:
         ref: ${{ github.head_ref }}
     - name: Jupyter Notebooks to Markdown
-      uses: MohamedElashri/Jupyter-to-Markdown@v1
+      uses: MohamedElashri/Jupyter-to-PDF@v2
     - name: Create Pull Request
       uses: peter-evans/create-pull-request@v3
       with:
