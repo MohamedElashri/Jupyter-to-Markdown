@@ -31,5 +31,7 @@ jobs:
         committer: Mohamed Elashri <MohamedElashri@users.noreply.github.com>
         title: Convert file from .ipynb to .md 
         body: This is an auto-generated PR
-        branch: main
+        branch: markdown
 ```
+
+branch and base can't be the same. `branch` is where the automatic pull requests will be pushed
