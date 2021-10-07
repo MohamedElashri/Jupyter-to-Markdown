@@ -5,3 +5,6 @@ description: 'Convert Jupyter Notebooks within the repository to Markdown files'
 runs:
   using: 'docker'
   image: 'Dockerfile'
+branding:
+  icon: 'book-open'  
+  color: 'blue'
