@@ -34,4 +34,4 @@ jobs:
         branch: markdown
 ```
 
-branch and base can't be the same. `branch` is where the automatic pull requests will be pushed
+`branch` and `base` can't be the same. `branch` is where the automatic pull requests will be pushed
